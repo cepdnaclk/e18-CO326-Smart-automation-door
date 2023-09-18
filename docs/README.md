@@ -27,15 +27,15 @@ This is a sample image, to show how to add images to your page. To learn more op
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Overview](#overview)
-3. [Hardware Deign](#hardware)
-4. [Scada logic](#scada)
+3. [Hardware Deign](#hardware-designn)
+4. [Scada logic](#scada-logic)
 5. [Links](#links)
 
 ---
 
 ## Introduction
 
-Welcome to the GitHub page for "Smart Secured Auto Door," where we introduce a groundbreaking solution designed to excel in occupancy management, enhance security and safety, provide valuable analytics and insights, and boost automation and efficiency. Our core objectives encompass creating a system that adeptly manages occupancy, safeguarding spaces for authorized users, and employing advanced access control mechanisms to heighten security and ensure occupant safety. Leveraging hardware components like the HC-SR501 PIR Motion Sensor, Servo Motor, and ESP-32S microcontroller, our project orchestrates seamless control of doors, automating access based on occupancy, thereby reducing manual intervention and improving overall efficiency. We rely on the Mosquitto broker for streamlined communication between project components, while a MySQL database forms the foundation for storing and managing vital data related to occupancy, access control, and analytical insights. Explore our GitHub repository to delve into the source code, documentation, and setup instructions, whether you aim to contribute to development or deploy this innovative solution for your specific needs. Join us in revolutionizing occupancy management and access control systems, as we embark on a journey towards a safer, smarter world with the "Smart Secured Auto Door" project.
+The "Smart Secured Auto Door" project introduces a groundbreaking solution focused on improving occupancy management, security, safety, analytics, and automation. Its main goals are to efficiently manage occupancy, enhance security, and ensure occupant safety by using components like PIR Motion Sensors, Servo Motors, and microcontrollers. The project relies on Mosquitto for communication and a MySQL database for data storage. You can explore their GitHub repository for source code, documentation, and setup instructions if you want to contribute or deploy this innovative system. Join the project to help revolutionize occupancy management and access control for a safer and smarter world.
 
 ## Overview
 

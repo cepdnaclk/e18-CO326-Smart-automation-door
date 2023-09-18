@@ -9,7 +9,7 @@ title: Smart-automation-door
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# SMART SECURED DOOR
 
 ---
 
@@ -20,9 +20,9 @@ This is a sample image, to show how to add images to your page. To learn more op
  -->
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/18/068, G.C. Devinda, [e18068@pdn.ac.lk](mailto:name@email.com)
+-  E/18/073, W.M.T. Dhananjaya, [e18073@pdn.ac.lk](mailto:name@email.com)
+-  E/18/214, H.K. Manahara, [e18214@pdn.ac.lk](mailto:name@email.com)
 
 ## Table of Contents
 1. [Introduction](#introduction)
